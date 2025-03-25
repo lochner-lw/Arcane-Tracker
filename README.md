@@ -2,7 +2,7 @@
 
 # Arcane Tracker
 
-An automatic Hearthstone tracker for GrapheneOS.
+### An automatic Hearthstone tracker for GrapheneOS.
 
 #### Arcane Tracker is not maintained anymore **on Android**, read https://articles.hsreplay.net/2020/08/19/arcane-tracker-to-be-phased-out-on-august-31st/ for more details.
 
