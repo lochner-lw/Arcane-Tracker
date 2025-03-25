@@ -5,12 +5,12 @@
 ### An automatic Hearthstone tracker for GrapheneOS.
 - Compatable with https://hsreplay.net/
 
----
-
 <!-- An automatic Hearthstone tracker for Android. -->
 
 <!-- Install it from the [Google Play](https://play.google.com/store/apps/details?id=net.mbonnin.arcanetracker&hl=en) or the -->
 [Releases page](https://github.com/lochner-lw/Arcane-Tracker/releases).
+
+---
 
 ## Filing bugs/feature requests 
 
