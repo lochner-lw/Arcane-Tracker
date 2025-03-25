@@ -3,10 +3,9 @@
 # Arcane Tracker
 
 ### An automatic Hearthstone tracker for GrapheneOS.
+- Compatable with https://hsreplay.net/
 
-#### Arcane Tracker is not maintained anymore *on Android*, read https://articles.hsreplay.net/2020/08/19/arcane-tracker-to-be-phased-out-on-august-31st/ for more details.
-
-https://hsreplay.net/
+---
 
 <!-- An automatic Hearthstone tracker for Android. -->
 
@@ -16,6 +15,12 @@ https://hsreplay.net/
 ## Filing bugs/feature requests 
 
 Feel free to file bugs/feature requests at https://github.com/lochner-lw/Arcane-Tracker/issues. Put as many details as you can. 
+
+---
+
+#### Arcane Tracker is not maintained anymore *on Android*, read https://articles.hsreplay.net/2020/08/19/arcane-tracker-to-be-phased-out-on-august-31st/ for more details.
+
+
 
 <!--If something wrong happens during a game, you can go to 'settings -> send feedback' to send a bug report including detailed logs for us to investigate.-->
 
